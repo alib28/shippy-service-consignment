@@ -6,6 +6,7 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/alib28/shippy-service-consignment v0.0.0-20190704160725-6cd6f327fb3c h1:BtrtRwi4mqb3z1j6CA0xf9BQhBc3RmKV9TACXN2M1Qw=
 github.com/alib28/shippy-service-consignment v0.0.0-20190704160725-6cd6f327fb3c/go.mod h1:t8PcOXvCDZIieR81kuuHqUVptKOmPBxLUQ4uLjg5YDc=
+github.com/alib28/shippy-service-consignment v0.0.0-20190706235157-a47edc35ec9d h1:ZEiqekd0BURlpI+/kI5zH/ZdOmzXW5VS2sg4gx+I0O8=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b h1:VKtxabqXZkF25pY9ekfRL6a582T4P37/31XEstQ5p58=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
